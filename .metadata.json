@@ -1,0 +1,10 @@
+[
+  {
+    "package": "goric",
+    "oncran": true
+  },
+  {
+    "package": "mcprofile",
+    "oncran": true
+  }
+]
